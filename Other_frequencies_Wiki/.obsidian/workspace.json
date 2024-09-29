@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "345c1ca72b90a0b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3324fc87732972b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2696465e20e425e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b99b1167829fefec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7c672609f0a979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f444d30745d832a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97b6d00766ce9ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5527e1e73eeed3b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1b98f582040e2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed0858c859b8496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62f784ffd4771210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1bb9278ef4b7e92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02493cc46507d946",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "339a10e65eb69652",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2696465e20e425e9",
+  "lastOpenFiles": [
+    "Motion capture Face.md",
+    "Dictionnaire Markdown.md",
+    "Capture d'ambiance pour scène 3D avec l'artiste Nicolas Brunet.md",
+    "Other Frequencies.md",
+    "media-pipe.md",
+    "python.md"
+  ]
+}
