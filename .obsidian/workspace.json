@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "acbabf606f03048f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b919159345aec76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43d4ba4205471682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other_frequencies_Wiki/Code/Methode Agile/Raspberry_choix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd6839759a0e5c39",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b1fde0668aa907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a6fa034cfdbb3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84ee3ffcc94d5221",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e8a105e239567fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6d37cce5a59aa15",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b8d98b42449dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5240f2b4051c9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other_frequencies_Wiki/Code/Methode Agile/Raspberry_choix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b66940093f26e414",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Other_frequencies_Wiki/Code/Methode Agile/Raspberry_choix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4493b0fb1c6f07e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d78ddc43ac911166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Other_frequencies_Wiki/Code/Methode Agile/Raspberry_choix.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "43d4ba4205471682",
+  "lastOpenFiles": [
+    "Other_frequencies_Wiki/Projets/Projet Jarvis/Projet Jarvis.md",
+    "Other_frequencies_Wiki/Code/Methode Agile/Systemes_connexion_internet.md",
+    "Other_frequencies_Wiki/Code/Methode Agile/Raspberry_choix.md",
+    "Other_frequencies_Wiki/Code/Methode Agile/Non confirmé 812268.crdownload",
+    "Other_frequencies_Wiki/Code/Methode Agile/Systemes_connexion_internet (1).md",
+    "Other_frequencies_Wiki/Code/Methode Agile/Non confirmé 222130.crdownload",
+    "Other_frequencies_Wiki/Code/Methode Agile/Whisper_bibliotheque.md",
+    "Other_frequencies_Wiki/Code/Methode Agile/Non confirmé 126812.crdownload",
+    "Other_frequencies_Wiki/Code/Methode Agile/Non confirmé 86122.crdownload",
+    "Other_frequencies_Wiki/Code/Methode Agile/LLM_embarques_distanciels.md",
+    "Other_frequencies_Wiki/Code/Methode Agile/Non confirmé 695233.crdownload",
+    "Other_frequencies_Wiki/Code/UML/UML_TP/UML_Diagramme_séquence_TP6.md",
+    "Other_frequencies_Wiki/Code/UML/UML_Diagramme_séquence_TP6.md",
+    "Other_frequencies_Wiki/Code/UML_Diagramme_séquence_TP6.md",
+    "Other_frequencies_Wiki/Projets/Projet Jarvis",
+    "Other_frequencies_Wiki/Projet Jarvis/Projet Jarvis.md",
+    "Projet Jarvis.md",
+    "Other_frequencies_Wiki/Projet Jarvis.md",
+    "Other_frequencies_Wiki/Projet Jarvis",
+    "Projet Jarvis"
+  ]
+}

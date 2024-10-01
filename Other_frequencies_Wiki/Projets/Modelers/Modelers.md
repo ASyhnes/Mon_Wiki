@@ -1,0 +1,1 @@
+![[LOGO_COMPLET_ASSO.png]]

@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2696465e20e425e9",
+            "id": "657741fc94bfa787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python.md",
+                "file": "Projets/Le Jugement/Le Jugement (Général).md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "8dbd75231f0251bc",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "introdu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c1b98f582040e2f4",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python.md",
+                "file": "Projets/Le Jugement/Le Jugement (Général).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +111,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python.md",
-                "linksCollapsed": false,
+                "file": "Projets/Le Jugement/Le Jugement (Général).md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,15 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python.md"
+                "file": "Projets/Le Jugement/Le Jugement (Général).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,16 +153,58 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2696465e20e425e9",
+  "active": "657741fc94bfa787",
   "lastOpenFiles": [
-    "Motion capture Face.md",
-    "Dictionnaire Markdown.md",
-    "Capture d'ambiance pour scène 3D avec l'artiste Nicolas Brunet.md",
+    "Code/Methode Agile/Introduction-a-lagilite.pdf",
+    "Projets/Le Jugement/Le Jugement (Général).md",
+    "Code/Methode Agile/Introduction à la méthode Agile.md",
+    "Geographie/Penrose Guide/Penrose Guide.md",
+    "Art/3D/AmbianceHDR/Introduction-a-lagilite.pdf",
+    "Code/Python/Media_Pipe/Motion captures_video/Insta_motion_capture.mp4",
+    "Code/Methode Agile",
+    "Art/3D/AmbianceHDR/Introduction-a-lagilite.pdf.crdownload",
+    "Methode Agile",
+    "Art/3D/AmbianceHDR/HDR dans la moria.md",
+    "Projets/Le Jugement/Pierre(Kevin).md",
     "Other Frequencies.md",
-    "media-pipe.md",
-    "python.md"
+    "Projets/Le Jugement/Eva.md",
+    "Projets/Le Jugement/Franklin.md",
+    "Videos",
+    "Projets/Le Jugement",
+    "Projets/Fish's Legion/Fish's Legion.md",
+    "Art/3D/AmbianceHDR/Post_traitement.png",
+    "Geographie/Penrose Guide/Nicolas_Brunet_3D_Artist/Aquisition HDR_Video/Ardilliers.mp4",
+    "Art/3D/AmbianceHDR/Souzay_step_2.jpg",
+    "Art/3D/AmbianceHDR/Vigneron_développé.jpg",
+    "Art/3D/AmbianceHDR/Ardillers_developpé.png",
+    "Art/3D/AmbianceHDR/Souzay_develloppé.jpg",
+    "Geographie/Penrose Guide/Nicolas_Brunet_3D_Artist/Capture d'ambiance pour scéne 3D avec Nicolas Brunet.md",
+    "Art/3D/AmbianceHDR/Souzay_step1.jpg",
+    "Art/3D/AmbianceHDR/20240929_142811.jpg.crdownload",
+    "Geographie/Penrose Guide/Nicolas_Brunet_3D_Artist/Aquisition HDR_Video/Souzay gravure.jpg",
+    "Art/Logo/Logo_img/penrose_guide_2.png",
+    "URL.md",
+    "Art/3D/AmbianceHDR/Ardilliers.jpg",
+    "().md",
+    "Projets/Modelers/Modelers.md",
+    "Sans titre.canvas",
+    "Dictionnaire Markdown.md",
+    "Code/UML/UML_TP/UML_Diagramme_séquence_TP4.md",
+    "2024-09-30.md",
+    "UML_Diagramme_séquence_TP6.md",
+    "Code/UML/UML_TP/UML_CasUtilisation_TP1.md",
+    "Code/UML/UML_img/UML_TP1.png",
+    "Code/Python/Media_Pipe/Motion capture Face.md",
+    "Code/Python/Media_Pipe/Motion Capture pour 3D avec l'artiste Nicolas Brunet.md",
+    "Code/UML/UML Unify modeling language.md",
+    "Code/UML/UML_TP/UML_Diagramme_séquence_TP5.md",
+    "Art/Logo/logo.md",
+    "Code/UML/UML_TP/UML_CasUtilisation_TP4.md",
+    "Code/Python/Media_Pipe/media-pipe.md"
   ]
 }
